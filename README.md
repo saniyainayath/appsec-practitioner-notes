@@ -79,6 +79,6 @@ Application Security | Penetration Testing | Security Research
 
 GitHub: https://github.com/saniyainayath  
 LinkedIn: https://www.linkedin.com/in/saniyainayath  
-Medium: *(Add your Medium link)*
+Medium: https://medium.com/@saniyainayath
 
 ---
